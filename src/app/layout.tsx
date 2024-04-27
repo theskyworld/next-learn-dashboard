@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+// google字体
 import { Inter } from "next/font/google";
 import "./globals.css";
 
